@@ -1,5 +1,5 @@
 #Lista04
-#Acacia Calegari 114153997
+#Acacia Calegari
 
 from math import *
 
